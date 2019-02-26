@@ -1,0 +1,7 @@
+//#include "Compositions\foodstor_s.sqf";
+
+respawnTemplatesWest[] = {"MenuPosition"};
+
+respawnOnStart = -1;
+
+disabledAI = 1;
